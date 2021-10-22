@@ -11,7 +11,7 @@
 
 - 📍  Interested in **Software Engineering and Data Science Applications**
 
-- 📫  How to reach me **arda.erlik@gmail.com** or **aerlik20@ku.edu.tr**
+- 📫  You can reach me via **arda.erlik@gmail.com** or **aerlik20@ku.edu.tr**
 
 </div>
 <!--End of Header-->
