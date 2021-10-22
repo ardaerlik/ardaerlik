@@ -3,13 +3,13 @@
 
 <div>
 
-- 🌱  I’m currently learning **C, Swift, Data Structures and Algorithms**
+- 🌱  I’m currently learning **Computer Systems, IOS Programming, Data Structures and Algorithms**
 
 - 🤝  I’m looking for help with [RotateFlip](https://github.com/ardaerlik/RotateFlip.git)
 
 - 👨‍💻  All of my projects are available at [https://ardaerlik.me/](https://ardaerlik.me/)
 
-- 💬  Ask me about **Java, Python, Bash, OOP...**
+- 📍  Interested in **Software Engineering and Data Science Applications**
 
 - 📫  How to reach me **arda.erlik@gmail.com** or **aerlik20@ku.edu.tr**
 
