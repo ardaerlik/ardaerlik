@@ -3,7 +3,7 @@
 
 <div>
 
-- 🌱  I’m currently learning **Computer Systems, IOS Programming, Data Structures and Algorithms**
+- 🌱  I’m currently learning **Software Engineering**
 
 - 🤝  I’m looking for help with [RotateFlip](https://github.com/ardaerlik/RotateFlip.git)
 
